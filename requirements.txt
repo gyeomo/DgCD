@@ -1,0 +1,8 @@
+gdown==4.7.1
+numpy==1.19.5
+Pillow==8.3.1
+prettytable==2.1.0
+sconf==0.2.3
+tensorboardX==2.5.1
+torch==1.8.1+cu111
+torchvision==0.9.1+cu111

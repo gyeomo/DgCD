@@ -1,0 +1,13 @@
+# Default update config
+# Config order: hparams_registry -> config.yaml -> CLI
+swad: False  # True / False
+swad_kwargs:
+  n_converge: 3
+  n_tolerance: 6
+  tolerance_ratio: 0.3
+test_batchsize: 128
+
+# resnet50, resnet18
+model: resnet50
+feat_layers: stem_block
+
