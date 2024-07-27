@@ -1,4 +1,4 @@
-# DgCD: Discrepancy-guided Channel Dropout for Domain Generalization (submitted in CIKM'24)
+# DgCD: Discrepancy-guided Channel Dropout for Domain Generalization
 
 
 We use DomainBed, the link below has details. 
