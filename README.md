@@ -1,5 +1,7 @@
 # DgCD: Discrepancy-guided Channel Dropout for Domain Generalization
 
+Accepted in ACM CIKM 2024 (https://cikm2024.org/)
+##
 
 We use DomainBed, the link below has details. 
 
