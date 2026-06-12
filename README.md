@@ -7,6 +7,12 @@ Accepted in ACM CIKM 2024 (https://cikm2024.org/)
 
 [**Supplementary**](https://github.com/gyeomo/DgCD/blob/main/supplementary.pdf)
 
+
+<p align="center">
+  <img src="image.png" width="400">
+</p>
+
+
 ##
 
 We use DomainBed, the link below has details. 
