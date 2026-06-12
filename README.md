@@ -1,6 +1,6 @@
 # DgCD
 
-**Discrepancy-guided Channel Dropout for Domain Generalization ([CIKM 2024]((https://dl.acm.org/doi/10.1145/3627673.3679539)))**
+**Discrepancy-guided Channel Dropout for Domain Generalization ([CIKM 2024](https://dl.acm.org/doi/10.1145/3627673.3679539))**
 
 [Paper](https://github.com/gyeomo/DgCD/blob/main/main_paper.pdf)
 
