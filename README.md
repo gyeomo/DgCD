@@ -9,7 +9,7 @@ Accepted in ACM CIKM 2024 (https://cikm2024.org/)
 
 
 <p align="center">
-  <img src="image.png" width="400">
+  <img src="image.png" width="600">
 </p>
 
 
